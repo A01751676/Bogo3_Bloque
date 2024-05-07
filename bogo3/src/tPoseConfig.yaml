@@ -1,0 +1,12 @@
+Tpose: {DXL_1: 0, DXL_10: 0, DXL_11: 0, DXL_12: 0, DXL_13: 0, DXL_14: 0, DXL_15: 0,
+  DXL_16: 0, DXL_17: 0, DXL_18: 0, DXL_2: 0, DXL_3: 0, DXL_4: 0, DXL_5: 0, DXL_6: 0,
+  DXL_7: 0, DXL_8: 0, DXL_9: 0}
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_ana_virtualbox__42173: 'http://ana-VirtualBox:42173/'}
+rosversion: '1.14.13
+
+  '
+run_id: ecb9af72-090b-11ef-98c8-080027a46b41
