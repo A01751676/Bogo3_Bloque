@@ -2,7 +2,7 @@
 
 Ana Patricia Islas Mainou 		A01751676
 
-Alex Federico Nuñez Escobar 	A00000000
+Alex Federico Nuñez Escobar 	A01751559
 
 Rodrigo Mejía Jiménez 			A00000000
 
